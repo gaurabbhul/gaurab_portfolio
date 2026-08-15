@@ -119,7 +119,7 @@ export const projects = [
     des: "A responsive banking dashboard built with React and modern UI patterns. Features account overview, transaction history, and interactive components.",
     img: "/projects/banking.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/fm.svg"],
-    link: "https://github.com",
+    link: "https://github.com/gaurabbhul/Bank",
   },
   {
     id: 3,
@@ -127,7 +127,7 @@ export const projects = [
     des: "Responsive pet shop website with product showcase, filtering, and user-friendly navigation built with vanilla HTML, CSS, and JavaScript.",
     img: "/projects/petshop.png",
     iconLists: ["/html.svg", "/css.svg", "/js.svg"],
-    link: "https://github.com",
+    link: "https://github.com/gaurabbhul/Pet-Shop",
   },
   {
     id: 4,
@@ -135,7 +135,7 @@ export const projects = [
     des: "Modern coffee shop website with responsive design, menu presentation, and interactive UI elements. Built with HTML, CSS, and JavaScript.",
     img: "/projects/coffee.png",
     iconLists: ["/html.svg", "/css.svg", "/js.svg"],
-    link: "https://github.com",
+    link: "https://github.com/gaurabbhul/Coffee_shop",
   },
   {
     id: 5,
@@ -143,7 +143,7 @@ export const projects = [
     des: "Personal portfolio website showcasing projects and skills. Built with React, TypeScript, and Tailwind CSS with smooth animations.",
     img: "/projects/portfolio.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/fm.svg"],
-    link: "https://github.com",
+    link: "https://github.com/gaurabbhul/gaurab_portfolio",
   },
   {
     id: 6,
@@ -151,7 +151,7 @@ export const projects = [
     des: "Machine learning project using content-based recommendation. Implements product classification and similarity matching with a web interface.",
     img: "/projects/ecommerce.png",
     iconLists: ["/python.svg", "/re.svg", "/tail.svg"],
-    link: "https://github.com",
+    link: "https://github.com/gaurabbhul/Final-ecom-",
   },
 ];
 
